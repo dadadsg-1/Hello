@@ -1,0 +1,8 @@
+prefix=/home/logan-q/Desktop/hello/demo_ws/devel
+
+Name: hellovs
+Description: Description of hellovs
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

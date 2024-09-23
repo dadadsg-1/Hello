@@ -1,0 +1,2 @@
+hellovs
+-DCATKIN_DEVEL_PREFIX=/home/logan-q/Desktop/hello/demo_ws/devel -DCMAKE_INSTALL_PREFIX=/home/logan-q/Desktop/hello/demo_ws/install -G Unix Makefiles
